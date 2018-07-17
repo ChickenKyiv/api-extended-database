@@ -23,7 +23,7 @@
     "loopback-boot": "^2.6.5",
     "loopback-component-auto-migrate": "^0.3.1",
     "loopback-component-explorer": "^6.0.1",
-    "loopback-component-storage": "^3.3.1",
+    "loopback-component-storage": "^3.5.0",
     "loopback-connector-mongodb": "^3.4.3",
     "mongodb": "^3.0.6",
     "nodemon": "^1.17.2",
